@@ -1,0 +1,39 @@
+body{
+    width: 100%;
+    text-align: center;
+    margin: 10px 0 0 0;
+}
+
+.auth-card { width: 380px; border-radius: 12px; }
+
+
+.form-container{
+    width: 400px;
+    border-radius: 15px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    height: 400px;
+    justify-self: center;
+    margin: 60px;
+    padding: 50px 15;
+}
+
+input{
+    width: 100%;
+    margin: 5px;
+    border-radius: 5px;
+    border-color: grey;
+    border: 0px;
+    border-bottom: 1px solid;
+    line-height: 15px;
+    padding: 7px;
+}
+
+button{
+    width: 100%;
+    padding: 10px;
+    background: #198754;
+    margin: 5px;
+    border-radius: 5px;
+    color: #fff;
+    border: 0;
+}
